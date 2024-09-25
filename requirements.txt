@@ -101,7 +101,7 @@ pandas=2.2.2=py312hd77ebd4_0
 pandas-ta=0.3.14b=pyhd8ed1ab_0
 pillow=10.4.0=py312h80987f9_0
 pip=24.2=py312hca03da5_0
-
+plotly=5.24.1=pyhd8ed1ab_0
 protobuf=4.25.3=py312h8472c4a_0
 pyarrow=16.1.0=py312hd77ebd4_0
 pycparser=2.21=pyhd3eb1b0_0
